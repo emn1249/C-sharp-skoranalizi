@@ -1,0 +1,21 @@
+C:\Users\Asus\3D Objects\skor\skor analiz\skor analiz\bin\Debug\skor analiz.exe.config
+C:\Users\Asus\3D Objects\skor\skor analiz\skor analiz\bin\Debug\skor analiz.exe
+C:\Users\Asus\3D Objects\skor\skor analiz\skor analiz\bin\Debug\skor analiz.pdb
+C:\Users\Asus\3D Objects\skor\skor analiz\skor analiz\obj\Debug\skor analiz.csprojResolveAssemblyReference.cache
+C:\Users\Asus\3D Objects\skor\skor analiz\skor analiz\obj\Debug\skor_analiz.Form1.resources
+C:\Users\Asus\3D Objects\skor\skor analiz\skor analiz\obj\Debug\skor_analiz.Properties.Resources.resources
+C:\Users\Asus\3D Objects\skor\skor analiz\skor analiz\obj\Debug\skor analiz.csproj.GenerateResource.Cache
+C:\Users\Asus\3D Objects\skor\skor analiz\skor analiz\obj\Debug\skor analiz.csproj.CoreCompileInputs.cache
+C:\Users\Asus\3D Objects\skor\skor analiz\skor analiz\obj\Debug\skor analiz.exe
+C:\Users\Asus\3D Objects\skor\skor analiz\skor analiz\obj\Debug\skor analiz.pdb
+C:\Users\Asus\Desktop\skor\skor analiz\skor analiz\bin\Debug\skor analiz.exe.config
+C:\Users\Asus\Desktop\skor\skor analiz\skor analiz\bin\Debug\skor analiz.exe
+C:\Users\Asus\Desktop\skor\skor analiz\skor analiz\bin\Debug\skor analiz.pdb
+C:\Users\Asus\Desktop\skor\skor analiz\skor analiz\obj\Debug\skor analiz.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\skor\skor analiz\skor analiz\obj\Debug\skor_analiz.Form1.resources
+C:\Users\Asus\Desktop\skor\skor analiz\skor analiz\obj\Debug\skor_analiz.Form2.resources
+C:\Users\Asus\Desktop\skor\skor analiz\skor analiz\obj\Debug\skor_analiz.Properties.Resources.resources
+C:\Users\Asus\Desktop\skor\skor analiz\skor analiz\obj\Debug\skor analiz.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\skor\skor analiz\skor analiz\obj\Debug\skor analiz.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\skor\skor analiz\skor analiz\obj\Debug\skor analiz.exe
+C:\Users\Asus\Desktop\skor\skor analiz\skor analiz\obj\Debug\skor analiz.pdb
